@@ -17,7 +17,7 @@
 - [iOS 앱 다운로드](https://go.toongether.kr/ios)
 
 ## 💻 :: 팀 프로그래스
-||[iOS](https://github.com/Toongether/toongether-ios)|[Android](https://github.com/Toongether/toongether-android)|[Web](https://github.com/Toongether/toongether-web)|[Server](https://github.com/Toongether/toongether-server)|
+||[iOS](https://github.com/Toongether/toongether-ios) & [Docs](https://github.com/Toongether/toongether-docs)|[Android](https://github.com/Toongether/toongether-android)|[Web](https://github.com/Toongether/toongether-web)|[Server](https://github.com/Toongether/toongether-server)|
 |:--:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 |Developer|[이석호(Leader)](https://github.com/Mercen-Lee)|[윤석규](https://github.com/SeokgyuYun)|[전해림](https://github.com/HAERIM0)|[강지석](https://github.com/jiseok419) & [김종윤](https://github.com/rlawhddbs)|
 |Skills|Swift, SwiftUI, MVVM, Xcode|Kotlin, Jetpack Compose, MVI, Android Studio|TypeScript, React, Visual Studio Code|Java, Spring Boot, MSA, Intellij IDEA|
