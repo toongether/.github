@@ -1,4 +1,6 @@
 # 툰게더 프로젝트
+> "2023 STA+C 본상 수상작"
+
 작가에게는 연재의 기회를, 독자에게는 다양한 재미를 제공하는 `툰게더`는 팀 프로그래스에서 개발하는 `웹툰 자유 연재 서비스`입니다.
 
 ## 🪶 :: 주요 서비스 기능
@@ -19,7 +21,7 @@
 ## 💻 :: 팀 프로그래스
 ||[iOS](https://github.com/Toongether/toongether-ios) & [Docs](https://github.com/Toongether/toongether-docs)|[Android](https://github.com/Toongether/toongether-android)|[Web](https://github.com/Toongether/toongether-web)|[Server](https://github.com/Toongether/toongether-server)|
 |:--:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
-|Developer|[이석호(Leader)](https://github.com/Mercen-Lee)|[윤석규](https://github.com/SeokgyuYun)|[전해림](https://github.com/HAERIM0)|[강지석](https://github.com/jiseok419) & [김종윤](https://github.com/rlawhddbs)|
+|Developer|[이석호(Leader)](https://github.com/Mercen-Lee)|[윤석규](https://github.com/SeokgyuYun)|[전해림](https://github.com/HAERIM0) & [배경민](https://github.com/Bae0203)|[강지석](https://github.com/jiseok419) & [김종윤](https://github.com/rlawhddbs)|
 |Skills|Swift, SwiftUI, MVVM, Xcode|Kotlin, Jetpack Compose, MVI, Android Studio|TypeScript, React, Visual Studio Code|Java, Spring Boot, MSA, Intellij IDEA|
 
 ---
