@@ -22,7 +22,7 @@
 ||[iOS](https://github.com/Toongether/toongether-ios) & [Docs](https://github.com/Toongether/toongether-docs)|[Android](https://github.com/Toongether/toongether-android)|[Web](https://github.com/Toongether/toongether-web)|[Server](https://github.com/Toongether/toongether-server)|
 |:--:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 |Developer|[이석호(Leader)](https://github.com/Mercen-Lee)|[윤석규](https://github.com/SeokgyuYun)|[전해림](https://github.com/HAERIM0) & [배경민](https://github.com/Bae0203)|[강지석](https://github.com/jiseok419) & [김종윤](https://github.com/rlawhddbs)|
-|Skills|Swift, SwiftUI, MVVM, Xcode|Kotlin, Jetpack Compose, MVI, Android Studio|TypeScript, React, Visual Studio Code|Java, Spring Boot, MSA, Intellij IDEA|
+|Skills|Swift, SwiftUI, TCA, Xcode|Kotlin, Jetpack Compose, MVI, Android Studio|TypeScript, React, Visual Studio Code|Java, Spring Boot, MSA, Intellij IDEA|
 
 ---
 ![Toongether](https://hosting.toongether.kr/preview-image.png)
